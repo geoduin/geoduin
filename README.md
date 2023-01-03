@@ -8,7 +8,8 @@ As long as I have lived, do I always strive to learn skills and things whether i
 
 In the short term, I want to become graduate at Avans to become a competent data-engineer and maybe a data-scientist at a mid to big company. 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geoduin)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&username=geoduin"/>
+
 
 ## Known programming languages, frameworks and other technologies
 

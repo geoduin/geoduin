@@ -7,7 +7,7 @@ I like the development process of thinking and implementing the solution of soft
 As long as I remember, Am I always willing to learn new skills and improve upon it. 
 I'm also open to new ideas, as long as there is merit to it and reminding me de pros and cons of it.
 
-Long term wise, I want to become graduate at Avans to become a competent data-engineer and maybe a data-scientist at a mid to big company. 
+In the long term, I want to become a full-fletched full-stack developer.
 
 ## General information
 |Data         |           |

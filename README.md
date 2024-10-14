@@ -12,17 +12,10 @@ In the long term, I want to become a full-fletched full-stack developer.
 ## General information
 |Data         |           |
 | ---         | :---:     |
-| Age         | 22        |
+| Age         | 23        |
 | Gender      | Male      |
 | Nationality | Dutch     |
 | Place       | Rotterdam |
-
-## Github
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&username=geoduin"height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoduin" height="250"/>
-</p>
-
 
 ## Known technologies
 

@@ -1,21 +1,6 @@
 
 ## Introduction
-
-My name is Xin Wang and I am a software engineering student at the university of applied sciences of Avans Breda.
-I like the development process of thinking and implementing the solution of software, because I like to create or implement new things. And I am very happy if the solution solves important problems.
-
-As long as I remember, Am I always willing to learn new skills and improve upon it. 
-I'm also open to new ideas, as long as there is merit to it and reminding me de pros and cons of it.
-
-In the long term, I want to become a full-fletched full-stack developer.
-
-## General information
-|Data         |           |
-| ---         | :---:     |
-| Age         | 23        |
-| Gender      | Male      |
-| Nationality | Dutch     |
-| Place       | Rotterdam |
+I am an emerging software developer with a passion for full-stack and backend development, data engineering, and DevOps. Leveraging my curiosity and creativity, I strive to implement the most optimal software solutions. In my free time, I enjoy following news in the logistics, industry, traffic engineering, finance, and technology sectors. Beyond these interests, I find great pleasure in drawing and cooking.
 
 ## Known technologies
 

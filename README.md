@@ -4,7 +4,7 @@ I am an emerging software developer with a passion for full-stack and backend de
 
 ## Known technologies
 
-This a list of known technologies as of januari 3th 2023
+This a list of known technologies as of october 1th 2024
 
 ### Database technology
 <p>

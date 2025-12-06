@@ -1,3 +1,7 @@
 
 ## Introduction
-I am an emerging software developer with a passion for full-stack and backend development, data engineering, and DevOps. Leveraging my curiosity and creativity, I strive to implement the most optimal software solutions. In my free time, I enjoy following news in the logistics, industry, traffic engineering, finance, and technology sectors. Beyond these interests, I find great pleasure in drawing and cooking.
+I am a junior software developer with a passion for full-stack and backend development, data engineering, and data science. With my strong work ethic, research skills and a bit of creativity, I am able to deliver optimal solutions to my users and myself. 
+
+In my spare time, I enjoy reading literature related to data science, data engineering, Machine learning and urban planning. 
+
+I also enjoy drawing, cooking, running and reading comics.
